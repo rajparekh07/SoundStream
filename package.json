@@ -1,0 +1,14 @@
+{
+	"pip" : [
+		"git+https://github.com/dpallot/simple-websocket-server.git",
+		"pyaudio"
+	],
+	"brew" : [
+		"python3",
+		"portaudio",
+		"switchaudio-osx"
+	],
+	"pkg" : [
+		"soundflower"
+	]
+}
